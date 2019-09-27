@@ -115,6 +115,9 @@ On an exchange visit to the Technical University of Munich, I had the privilege 
 
 Together we designed and implemented a vertical axis control system for the above 4 meter s-band antenna reflector. This antenna is now used for the main high speed downlink for the [European Student Earth Orbiter](https://www.esa.int/Education/ESEO/ESEO_student_satellite_successfully_launched_to_space). A 50kg Micro-Satellite which launched successfully in Dec 2018 aboard a SpaceX Falcon 9.
 
+![System Dynamics](../img/combined.png){: width="650px"}
+
+
 ---
 <br />
 <br />
