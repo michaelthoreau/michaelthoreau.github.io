@@ -7,7 +7,7 @@ use-site-title: true
 
 ## Me
 
-I am a 2nd Year Graduate Engineer in the [Robotics and Autonomous Systems Group](https://research.csiro.au/robotics/) at CSIRO, in Brisbane, Australia. My current research involves **Self-Supervised Learning** and object understanding in video. I also spend some of my time working on 3D object detection for industrial safety. Read about my other research and interest on my [projects](projects) page.
+I am a Engineer with two years experience in the [Robotics and Autonomous Systems Group](https://research.csiro.au/robotics/) at CSIRO, in Brisbane, Australia. My current research involves **Self-Supervised Learning** and object understanding in video. I also spend some of my time working on 3D object detection for industrial safety. Read about my other research and interest on my [projects](projects) page.
   
 Before working, I studied Elec/Comp Engineering and Computer Science at The University of Queensland.
 

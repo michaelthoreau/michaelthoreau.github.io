@@ -43,7 +43,7 @@ To enable route planning over pre-mapped environments, I developed a simple obst
 
 ![Point Cloud](../img/point_cloud.jpg){: height="250px"}
 
-I used am assumption world was sensed from above e.g. from a [ground vehicle](https://scholar.google.com/citations?user=QAVcuWUAAAAJ&hl=en) in this case. With this simplification, I used a spatial filter on a height map generated from the highest points in each pixel. With a few heuristics and a hand tuned gradient threshold, a map is generated for navigation:
+I used a useful assumption that the world was sensed from above, in this case from an autonomous [ground vehicle](https://scholar.google.com/citations?user=QAVcuWUAAAAJ&hl=en). With this simplification, I used a spatial filter on a height map generated from the highest points in each pixel in an x,y grid. With a few heuristics and a hand tuned gradient threshold, a map is generated for navigation:
 
 ![Point Cloud](../img/obstacles.jpg){: height="250px"}
 
