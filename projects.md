@@ -53,15 +53,13 @@ I used a simplifying assumption that the world was sensed from above, in this ca
 
 
 **Learning to Fly - and relating this hobby to robotics** <br />
-Learning to fly light aircraft has given me a huge appreciation for simple and robustly engineered solutions. Just like in aircraft operations, having a deeper understanding of the systems inside the black boxes we work with may be valuable for safer robotics. An upcoming trend in deep learning is encorporating bayesian processes within neural networks, with [bayesian deep learning](https://medium.com/neuralspace/bayesian-neural-network-series-post-1-need-for-bayesian-networks-e209e66b70b2) posterior uncertainty can give us a peek inside the very black box that is deep learning.
+Learning to fly light aircraft has given me a huge appreciation for simple and robustly engineered solutions. Just like in aircraft operations, having a deeper understanding of the systems inside the black boxes we work with may be valuable for safer robotics. An upcoming trend in deep learning is encorporating bayesian processes within neural networks, with [bayesian deep learning](https://medium.com/neuralspace/bayesian-neural-network-series-post-1-need-for-bayesian-networks-e209e66b70b2) posterior uncertainty can give us a peek inside the big black box that is deep learning.
 
 ![Me in a borrowed 172](../img/zoom.jpg){: width="300px"}
 
 * Complete:
-   - First Solo
-   - Recreational Pilots License (RPL) Theory Exam
+   - Recreational Pilots License
 * Next:
-   - RPL Practical Exam
    - PPL Exams
    - Instrument rating
 
