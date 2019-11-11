@@ -13,4 +13,4 @@ Before working, I studied Elec/Comp Engineering and Computer Science at The Univ
 
 ### Publications
 
-[Improving Online Multiple Object tracking with Deep Metric Learning](https://arxiv.org/pdf/1806.07592.pdf) - Submitted ICCV
+[Deep Similarity Metric Learning for Real-Time Pedestrian Tracking](https://arxiv.org/pdf/1806.07592.pdf) - ACRA 2019
