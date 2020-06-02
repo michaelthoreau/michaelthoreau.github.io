@@ -14,3 +14,4 @@ I am currently a graduate student at the NYU Tandon School of Engineering. I stu
 ### Publications
 
 [Deep Similarity Metric Learning for Real-Time Pedestrian Tracking](https://arxiv.org/pdf/1806.07592.pdf) - ACRA 2019
+
