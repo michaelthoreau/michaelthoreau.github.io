@@ -12,7 +12,7 @@ title: Photos
 <br />
 
 ![Photos-11](../photos/photos-11.jpg)
-*A peaceful protest marches through manhattan* - George Floyd Protests 2020
+*A peaceful protest marches through Manhattan* - George Floyd Protests 2020
 
 <br />
 
@@ -20,7 +20,7 @@ title: Photos
 <br />
 
 ![Photos-10](../photos/photos-10.jpg)
-*A super clear day in NYC, perhaps for the last time before polution returns with the traffic* - Spring 2020
+*A super clear day in NYC for perhaps the last time before the polution returns with the traffic* - Spring 2020
 
 <br />
 
@@ -93,4 +93,4 @@ title: Photos
 <br />
 
 ![Photos-1](../photos/photos-1.jpg)
-*One of the many cats of osaka* - Winter 2015
+*One of the many cats of Osaka* - Winter 2015

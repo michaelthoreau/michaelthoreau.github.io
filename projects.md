@@ -2,11 +2,21 @@
 layout: page
 title: Projects
 ---
+---
+
+<!-- ## 2020
+**NYU Rogue Aerospace apogee control drag system**
+
+
+![Drag System](../img/drag_system.png)
+
+<br />
+<br /> -->
 
 ## 2019
 
-**Self-Supervised from video - In Progress** <br />
-One of my major projects of 2019; I'm working with some great people at CSIRO including the project's supervisor [Peyman Moghadam](https://scholar.google.com/citations?user=QAVcuWUAAAAJ&hl=en), on self-supervised learning. Our aim is to adapt tasks such as object detection to new domains by learning from from unlabelled videos. We are building on works such as that of [Wang et al.](https://arxiv.org/pdf/1903.07593.pdf) Results and publication links to come..
+**Self-Supervised from video** <br />
+One of my major projects of 2019; working with some great people at CSIRO on the topic of self-supervised learning. Our aim was to adapt tasks such as object detection and action recognition to new domains by learning from from unlabelled videos. We built on top of works such as that of [Wang et al.](https://arxiv.org/pdf/1903.07593.pdf). Our team was successful in building a model to learn temporally coherent representations from unlabelled videos. Preliminary results are documented [here](https://arxiv.org/pdf/2004.02753.pdf).
 
 ![Learning Correspondence via Cycle-Consistency](../img/timecycle.jpg)
 
