@@ -15,8 +15,8 @@ title: Projects
 
 ## 2019
 
-**Self-Supervised from video** <br />
-One of my major projects of 2019; working with some great people at CSIRO on the topic of self-supervised learning. Our aim was to adapt tasks such as object detection and action recognition to new domains by learning from from unlabelled videos. We built on top of works such as that of [Wang et al.](https://arxiv.org/pdf/1903.07593.pdf). Our team was successful in building a model to learn temporally coherent representations from unlabelled videos. Preliminary results are documented [here](https://arxiv.org/pdf/2004.02753.pdf).
+**Self-Supervised learning from video** <br />
+One of my major projects of 2019; working with some great people at CSIRO on the topic of self-supervised learning. Our aim was to adapt tasks such as object detection and action recognition to new domains by learning from from unlabelled videos. We built on top of works such as that of [Wang et al.](https://arxiv.org/pdf/1903.07593.pdf) Our team was successful in building a model to learn temporally coherent representations from unlabelled videos. Preliminary results are documented [here](https://arxiv.org/pdf/2004.02753.pdf).
 
 ![Learning Correspondence via Cycle-Consistency](../img/timecycle.jpg)
 
@@ -26,7 +26,7 @@ One of my major projects of 2019; working with some great people at CSIRO on the
 <br />
 
 **Removing the burden of controlling for time in espresso coffee extraction** <br />
-Making the perfect shot of espresso coffee is a semi-scientific persuit that combines well through numerous iterations with the other persuits of engineers. Below are, in my opinion, the major variables affecting the quality of an espresso coffee shot, with the most significant influences for each variable alongside. The aim is to control these variables to achieve a consistent 30-50ml shot of coffee extracted evenly over 25-35 seconds (approximate numbers).
+Making the perfect shot of espresso coffee is a semi-scientific persuit that meshes well with iterative processes generally found in science and engineering. Below are, in my opinion, the major variables affecting the quality of an espresso coffee shot, with the most significant influences for each variable alongside. The aim is to control these variables to achieve a consistent 30-50ml shot of coffee extracted evenly over 25-35 seconds.
 
 * Beans - Roasting Quality and timing of consumption is everything, origin may have some effect too.
 * Grind - Has the largest affect on flow rate.
