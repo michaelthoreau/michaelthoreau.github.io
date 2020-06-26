@@ -2,14 +2,16 @@
 layout: page
 title: Projects
 ---
----
+
 
 <!-- ## 2020
 **NYU Rogue Aerospace apogee control drag system**
 
 
-![Drag System](../img/drag_system.png)
+![Drag System](../img/drag_system.png){: .center : width="80%" !important}
+![Apogee Prediction](../img/apogee.png){: .center : width="40%"}
 
+---
 <br />
 <br /> -->
 

@@ -1,0 +1,21 @@
+---
+layout: base
+---
+
+{% include header.html type="page" %}
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-sm-4">
+        <img src="../img/profile_b_w-1.jpg" alt="Me" style="width: 100%; margin-top: 92px; margin-left: auto; margin-right: auto; padding-left: 10%;">
+    </div>
+    <div class="col-sm-8">
+      {{ content }}
+	    {% if page.comments %}
+        <div class="disqus-comments">
+	        {% include disqus.html %}
+        </div>
+	    {% endif %}
+    </div>
+  </div>
+</div>

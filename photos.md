@@ -3,6 +3,30 @@ layout: photo_page
 title: Photos
 ---
 
+![Photos-15](../photos/photos-15.jpg)
+*Coney Island Beach* - June 2020
+
+<br />
+
+---
+<br />
+
+![Photos-14](../photos/photos-14.jpg)
+*A man shows his support for a protest from the top of his own van* - George Floyd Protests 2020
+
+<br />
+
+---
+<br />
+
+![Photos-13](../photos/photos-13.jpg)
+*A lone motorcycle leaves the Barclay's center after a motorcycle protest* - George Floyd Protests 2020
+
+<br />
+
+---
+<br />
+
 ![Photos-12](../photos/photos-12.jpg)
 *A friendly security guard guides pedestrians around his damaged bank branch* - George Floyd Protests 2020
 
@@ -68,7 +92,7 @@ title: Photos
 <br />
 
 ![Photos-4](../photos/photos-4.jpg)
-*The Rainbow Lorikeet* - Southern Winter 2019
+*Native Australian Rainbow Lorikeets in my front garden* - Southern Winter 2019
 
 <br />
 
