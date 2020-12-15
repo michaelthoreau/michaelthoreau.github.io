@@ -16,4 +16,7 @@ I emailed you about something photography related? checkout my [photos](photos) 
 
 [Deep Similarity Metric Learning for Real-Time Pedestrian Tracking](https://arxiv.org/pdf/1806.07592.pdf) - ACRA 2019
 
+
+### Other
+
 [N.Y.P.D. Says It Used Restraint During Protests (Photo Credit)](https://www.nytimes.com/interactive/2020/07/14/nyregion/nypd-george-floyd-protests.html) - The New York Times
