@@ -9,8 +9,8 @@ use-site-title: true
 
 I am an Electrical Engineering graduate student at NYU with previous experience working in robotics. After studying Engineering and Science at the University of Queensland, I spent two years working in deep-learning and computer vision at the [CSIRO Robotics and Autonomous Systems Group](https://research.csiro.au/robotics/). I like to describe this institute as the Australian version of NASA's Jet Propulsion Lab.
 
-I asked you for a job or a lab position? checkout my [projects](projects) page.\\
-I emailed you about something photography related? checkout my [photos](photos) page as well.
+Checkout my [projects](projects) page for a selection of mostly personal projects I have worked on in the last few years.\\
+And if you are curious, checkout my [photos](photos) page as well.
 
 ### Publications
 
