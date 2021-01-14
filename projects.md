@@ -7,6 +7,20 @@ title: Projects
 
 <br />
 
+#### Failures in Crowd Sourced Search and Rescue
+
+We played a numbers game and lost; In the end there was no unfortunately no chance at winning, as the man we searched for lay peacefully dead beneath a tree. Over a period of 3-4 weeks in september, a number of experts in a diversity of fields and over 500 dedicated volunteers searched the desert of nevada for a missing paragliding pilot. 45,000 images were searched by over 500 volunteers, turning up 10k potential hits. Due to sheer luck, the tile containing the missing paraglider wing was never searched. 
+
+![Paraglider Search](../img/anomaly.jpg){: .center_wide}
+
+
+<br />
+
+---
+
+<br />
+
+
 #### The problem with capturing reflections off water
 
 The beautiful reflections in water of mountains, cityscapes, or artfully posed subjects are tempting targets for photographers. Humans do an impressive job of resolving and understanding the scene reflected in the gentle waves of a pond due our amazing visual understanding of the world. Photographers often attempt to capture this in a single image with a long exposure. Due to the properties of waves, specifically that the average angle of any point on a wavy surface over time is naturally perpendicular to gravity, a long exposure flattens the waves and often produces beautiful reflections (centre image below). 
