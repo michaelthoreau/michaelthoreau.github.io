@@ -1,5 +1,16 @@
 # Beautiful Jekyll
 
+### New command for building this locally
+
+```
+docker run -it -p 4000:4000 -v `pwd`:/app jekyll/jekyll bash -c "cd /app; gem install bundler:1.17.2; bundle install; bundle exec jekyll serve -H 0.0.0.0"
+```
+
+Everything was copied from the below, follow the links!
+
+---
+
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/daattali/20)
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 
