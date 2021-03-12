@@ -9,7 +9,7 @@ title: Projects
 
 #### Re-Using ML tools as they were never intended - Crowd Sourced Search and Rescue
 
-A top paragliding pilot went missing for three weeks in remote terrain, while flying in Nevada during the summer of 2020. During this time, over 500 volunteers from various recreational communities worked with experts to scour over 15,000 sq km of detailed satellite imagery, only for the pilot's wing to be found by a passing car. The pilot had died on impact with the ground after entering a unrecoverable spiral. Post crash analysis revealed that the forces involved would have induced unconsciousness long before he hit the ground, some crumb of comfort for family and his many friends. The technology that brought 500 pairs of eyes in to a virtual search was developed for the burgoening machine learning industry, and was used in a way that was never intended. Read more soon..
+A top paragliding pilot went missing for three weeks in remote terrain, while flying in Nevada during the summer of 2020. During this time, over 500 volunteers from various recreational communities worked with experts to scour over 15,000 sq km of detailed satellite imagery, only for the pilot's wing to be found by a passing car. The pilot had died on impact with the ground after entering a unrecoverable spiral. Post crash analysis revealed that the forces involved would have induced unconsciousness long before he hit the ground, some crumb of comfort for family and his many friends. The technology that brought 500 pairs of eyes in to a virtual search was developed for the burgoening machine learning industry, and was used in a way that was never intended. Read more at the link below..
 
 ![Paraglider Search](../img/anomaly.jpg){: .center_wide}
 
