@@ -6,7 +6,7 @@ title: Crowd Sourced Search and Rescue
 
 ### The Data
 
-The dataset consists of 46000 sparsely annotated images containing 4200 bounding boxes. Each image has dimensions of (1000,1000,3), corresponding to a 0.25 sq km patch of ground with a pixel pitch of 0.5m. Instructions for accessing and using the data can be found on [Github](https://github.com/michaelthoreau/satellite-imagery-search-and-rescue).
+The dataset consists of 2552 annotated images containing approximately 4200 bounding boxes. Each image has dimensions of (1000,1000,3), corresponding to a 0.25 sq km patch of ground with a pixel pitch of 0.5m. Instructions for accessing and using the data can be found on [Github](https://github.com/michaelthoreau/satellite-imagery-search-and-rescue).
 
 <br />
 
