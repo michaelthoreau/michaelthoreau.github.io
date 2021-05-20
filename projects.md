@@ -13,7 +13,7 @@ A top paragliding pilot went missing for three weeks in remote terrain, while fl
 
 ![Paraglider Search](../img/anomaly.jpg){: .center_wide}
 
-[Read more and access the dataset..](paraglider)
+<!-- [Read more and access the dataset..](paraglider) -->
 <br />
 
 ---
